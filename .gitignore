@@ -1,0 +1,42 @@
+# If you prefer the allow list template instead of the deny list, see community template:
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+#
+# Binaries for programs and plugins
+bird2toolkit
+bird2toolkit-test
+bird2toolkit-build
+bird2toolkit-dist
+bird2toolkit.yml
+dist
+
+# Ignore files
+_gitignore/
+
+# Log files
+*.log
+
+# Artifacts from pprof tooling
+*.prof
+*.test
+
+# Temp files created while testing
+temp/
+
+# Config files
+config/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+vendor/
+
+# Go workspace file
+go.work
+
+# IDE files
+.idea/
+.vscode/
