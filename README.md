@@ -22,7 +22,6 @@ Please see [CHANGELOG](https://github.com/Bird2-Toolkit/Bird2Toolkit/CHANGELOG.m
 Please see [UPGRADING](https://github.com/Bird2-Toolkit/Bird2Toolkit/UPGRADING.md) for details.
 
 
-
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/Bird2-Toolkit/Bird2Toolkit/CONTRIBUTING.md) for details.
 
@@ -43,7 +42,7 @@ This project is licensed under the GPL-3.0 license. See [LICENSE](https://github
 
 
 ## Authors
-Please see [AUTHORS](https://github.com/Bird2-Toolkit/Bird2Toolkit/AUTHORS.md) for details.
+Please see [AUTHORS](https://github.com/Bird2-Toolkit/Bird2Toolkit/AUTHORS) for details.
 
 
 ## Acknowledgements
