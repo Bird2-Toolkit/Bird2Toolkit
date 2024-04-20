@@ -10,16 +10,12 @@ Toolkit for bird2 routing daemon
 <TODO: Add installation description>
 
 
-## Upgrade
+## Upgrading
 Please see [UPGRADING](https://github.com/Bird2-Toolkit/Bird2Toolkit/UPGRADING.md) for details.
 
 
 ## Changelog
 Please see [CHANGELOG](https://github.com/Bird2-Toolkit/Bird2Toolkit/CHANGELOG.md) for more information about recent changes.
-
-
-## Upgrading
-Please see [UPGRADING](https://github.com/Bird2-Toolkit/Bird2Toolkit/UPGRADING.md) for details.
 
 
 ## Contributing
